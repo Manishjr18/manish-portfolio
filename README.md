@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# 💼 Manish Kumar | React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A sleek and interactive personal developer portfolio built with **React.js**, styled using **styled-components**, and animated with **Framer Motion**.
 
-## Available Scripts
+🌐 **Live Site:** [manish-portfolio-phi.vercel.app](https://manish-portfolio-phi.vercel.app)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🌙 Light/Dark Theme Toggle
+- 💻 Dynamic Skills Section with Animated Tech Icons
+- 🧠 Experience Timeline with Framer Animations
+- 🗂️ Projects with Hover Effects & GitHub Links
+- 📜 Certification Cards with Reveal Transitions
+- 🏆 Achievements with Icons & Motion Effects
+- 📬 Contact Form with Social Links Integration
+- 💬 WhatsApp, LinkedIn, GitHub, and Email Access
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React.js**
+- **Styled-Components**
+- **Framer Motion**
+- **EmailJS**
+- **React Icons**
+- **JavaScript / HTML / CSS**
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📁 Sections Overview
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- `Hero` → Intro + Typed Name + Profile Pic + Social Icons
+- `Skills` → Categorized Skill Cards with Animation
+- `Projects` → Interactive Cards with GitHub links
+- `Experience` → Vertical Timeline with Framer Motion
+- `Certifications` → Grid-style responsive certificate view
+- `Achievements` → Icon-based bullet list with animation
+- `Contact` → Form + Direct Social Access
+- `Footer` → Built by credit + animation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧾 Credits
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Framer Motion](https://www.framer.com/motion/)
+- [EmailJS](https://www.emailjs.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Vercel](https://vercel.com/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📬 Contact Me
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- ✉️ manishjr2507@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manish-kumar-jr18/)  
+- 💻 [GitHub](https://github.com/Manishjr18)  
+- 📱 [WhatsApp](https://wa.me/919798787115)  
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## ⭐️ Show Some Love
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you liked this portfolio, please ⭐️ the repo to support future updates and enhancements.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
