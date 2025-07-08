@@ -151,7 +151,7 @@ function Hero() {
           From building intelligent tools to contributing to real-world projects, I love transforming abstract ideas into elegant, impactful solutions.
         </p>
 
-        <a href="https://drive.google.com/file/d/1CVMOyQtrFJe_uUTj9KNvzn6VIqWeJO70/view?usp=sharing" className="button" target="_blank" rel="noreferrer">
+        <a href="https://drive.google.com/file/d/1p5YCVFPJy4j5bbWpDpFY4OsIsZPUzW6_/view?usp=sharing" className="button" target="_blank" rel="noreferrer">
           📄 View Resume
         </a>
 

@@ -85,7 +85,7 @@ const experiences = [
     role: 'Python Developer Intern',
     company: (
       <a
-        href="https://drive.google.com/file/d/1iyQs_CF_HWAI4c4E91qtdX4HXEAShMQY/view?usp=sharing"
+        href="https://drive.google.com/file/d/1uqUagXVeonJgB-GYhknztsoyt8QRdd9i/view?usp=drive_link"
         target="_blank"
         rel="noreferrer"
       >
