@@ -34,8 +34,9 @@ const Card = styled(motion.div)`
   box-shadow: 0 6px 14px rgba(197, 24, 24, 0.6);
 
   &:hover {
-    transform: translateY(-6px) scale(1.02);
-    box-shadow: 0 10px 20px rgba(30,144,255,0.2);
+    transform: translateY(-6px);
+    border-color: #1e90ff;
+    box-shadow: 0 10px 20px rgba(30, 144, 255, 0.25);
   }
 
   h3 {

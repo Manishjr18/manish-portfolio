@@ -5,10 +5,10 @@ import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import {
-  FaPython, FaJava, FaReact, FaGithub, FaDatabase, FaTools, FaCode, FaHtml5,
+  FaPython, FaJava, FaReact, FaGithub, FaDatabase, FaTools, FaCode, FaHtml5, FaJs,
 } from 'react-icons/fa';
 import {
-  SiFlask, SiFirebase, SiPostman, SiPandas, SiSonarqube,
+  SiFlask, SiFirebase, SiPostman, SiPandas, SiSonarqube, SiSelenium,
   SiNumpy, SiJson, SiVercel, SiLinux,
 } from 'react-icons/si';
 
@@ -107,6 +107,7 @@ const skills = {
     { icon: <FaPython />, label: 'Python (Intermediate)' },
     { icon: <FaJava />, label: 'Core Java (Basic)' },
     { icon: <FaDatabase />, label: 'SQL (Basic)' },
+    { icon: <FaJs/>, label: 'JavaScript (Basic)' },
   ],
   "Frameworks & Libraries": [
     { icon: <SiFlask />, label: 'Flask' },
@@ -124,6 +125,7 @@ const skills = {
     { icon: <FaCode />, label: 'Pylint' },
     { icon: <FaCode />, label: 'Bandit' },
     { icon: <SiPostman />, label: 'Postman' },
+    { icon: <SiSelenium />, label: 'Selenium (Web Extension)' },
     { icon: <FaCode />, label: 'Unit Testing' },
   ],
   "Tools & Platforms": [
