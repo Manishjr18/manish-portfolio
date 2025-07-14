@@ -151,9 +151,9 @@ function Hero() {
           From building intelligent tools to contributing to real-world projects, I love transforming abstract ideas into elegant, impactful solutions.
         </p>
 
-        <a href="https://drive.google.com/file/d/1p5YCVFPJy4j5bbWpDpFY4OsIsZPUzW6_/view?usp=sharing" className="button" target="_blank" rel="noreferrer">
-          📄 View Resume
-        </a>
+        <a href="#contact" className="button">
+  📞 Let’s Connect
+</a>
 
         <div className="socials">
           <a href="https://github.com/Manishjr18" target="_blank" rel="noreferrer"><FaGithub /></a>

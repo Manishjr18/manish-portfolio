@@ -85,14 +85,14 @@ const experiences = [
     role: 'Python Developer Intern',
     company: (
       <a
-        href="https://drive.google.com/file/d/1uqUagXVeonJgB-GYhknztsoyt8QRdd9i/view?usp=drive_link"
+        href="https://drive.google.com/file/d/1bv9xFPkx5IC2CZ3miYG7ny4zT6OgsuzS/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
         Logical Wave (P) Ltd
       </a>
     ),
-    duration: 'Dec 2024 – Jun 2025',
+    duration: 'Dec 2024 – Mar 2025',
     bullets: [
       'Built an internal AI-based bug detection system using SonarQube and Bandit, reducing code review time by 40%.',
       'Enhanced code coverage by 35% via test-driven development and modular refactoring.',
